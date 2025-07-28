@@ -1,0 +1,8 @@
+**
+!/completions/
+!/completions/*.fish
+!/functions/
+!/functions/*.fish
+!/.gitignore
+!/README.md
+!/LICENSE.txt
