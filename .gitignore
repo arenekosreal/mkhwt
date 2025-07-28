@@ -3,6 +3,7 @@
 !/completions/*.fish
 !/functions/
 !/functions/*.fish
+!/mkhwt.fish
 !/.gitignore
 !/README.md
 !/LICENSE.txt
