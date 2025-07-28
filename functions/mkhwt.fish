@@ -61,6 +61,7 @@ function mkhwt --description "Create customized Huawei theme based on icon pack 
             echo "      -O | --font-cn:             The font of the theme in Chinese. Defaults to `$DEFAULT_FONT_CN`."
             echo "      -b | --briefinfo:           The brief info of the theme. Defaults to `$DEFAULT_BRIEFINFO`."
             echo "      -W | --wallpaper-dark:      If the theme has dark wallpaper."
+            echo "      -m | --format-type:         The formatType of theme. unlock theme is 1, icon theme is 2, no needed for other theme types."
             echo "  Other:"
             echo "      -h | --help:                Print this help."
         end >&2
