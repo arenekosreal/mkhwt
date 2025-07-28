@@ -16,5 +16,6 @@ complete -c mkhwt -r -s v -l version -d "The version of theme."
 complete -c mkhwt -r -s o -l font -d "The font of theme."
 complete -c mkhwt -r -s O -l font-cn -d "The font of theme in Chinese."
 complete -c mkhwt -r -s b -l briefinfo -d "The briefinfo of theme."
+complete -c mkhwt -r -s m -l format-type -d "The formatType of theme." -a '1 2'
 complete -c mkhwt -s W -l wallpaper-dark -d "If the theme has dark wallpaper."
 complete -c mkhwt -s h -l help -d "Print help."
